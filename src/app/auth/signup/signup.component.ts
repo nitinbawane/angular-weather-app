@@ -27,9 +27,9 @@ export class SignupComponent implements OnInit {
 
     //set default value
     this.signupForm.setValue({
-      'name': 'Aman',
-      'email': 'aman.patial@gmail.com2',
-      'password': 'AmanPatial'
+      'name': 'Nitin Bawane',
+      'email': 'nitinbawane86@gmail.com',
+      'password': '1qazZAQ!'
     })
   }
   onSubmit() {

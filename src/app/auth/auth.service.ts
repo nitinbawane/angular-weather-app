@@ -4,8 +4,8 @@ import { Injectable } from '@angular/core';
 @Injectable()
 export class AuthService {
 
-    email: string = 'aman.patial@gmail.com';
-    password: string = 'AmanPatial';
+    email: string = 'nitinbawane86@gmail.com';
+    password: string = '12345678';
     signedIn: boolean = false;
 
     constructor(private router: Router) { }
